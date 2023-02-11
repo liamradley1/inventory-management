@@ -1,0 +1,2 @@
+id,description,unitPrice,qtyStock,totalPrice1,
+1,item1,12000.0,3,36000.0,2,joe,2.01,12,24.119999999999997,
