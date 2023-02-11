@@ -1,1 +1,4 @@
-id,description,qtySold,Amount(£),remainingStock,transactionType,day,1,item1,0,12000.0,1,Stock added,2023-02-11 12:30:00.0,2,joe,12,24.119999999999997,12,Item added,2023-02-11 13:12:03.5831607,
+id,description,qtySold,Amount(£),remainingStock,transactionType,day,
+00002,joe,1,2.0,4,Stock increase,2023-02-11 15:29:59.2463091,
+00005,cheese,3,6.0,3,Item added,2023-02-11 15:30:39.1156993,
+00001,item1,97,1164000.0,100,Stock increase,2023-02-11 15:31:07.2787955,

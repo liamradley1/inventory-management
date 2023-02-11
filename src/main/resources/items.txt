@@ -1,2 +1,6 @@
-id,description,unitPrice,qtyStock,totalPrice1,
-1,item1,12000.0,3,36000.0,2,joe,2.01,12,24.119999999999997,
+id,description,unitPrice,qtyStock,totalPrice,
+00001,item1,12000.0,100,1200000.0,
+00002,joe,2.0,4,8.0,
+00003,egg,2.0,2,4.0,
+00004,pp,2.0,2,4.0,
+00005,cheese,2.0,3,6.0,
